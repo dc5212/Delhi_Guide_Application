@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.devarshi2.android.delhiguide.MainActivity">
+
+        <ImageView
+
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/redfort" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LOCATION:Netaji Subhash Marg"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NEAREST METRO STATION:Chadni Chwok"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TIMINGS:9:30AM TO 4:30PM"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ENTRY:10(Indians),250(foreigners)"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OPEN TUESDAY TO SUNDAY"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PHOTOGRAPHY CHARGES:NIL (25 for video filming)"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="Red Fort, Delhi or Lal Kila is located in old Delhi, India. It was mainly built by Red sand stone. The Red fort complex was designated as a UNESCO World Heritage Site in 2007. Lal Quila of Delhi is the one of the main identity of Delhi and one of the most visited tourist attractions of India. It is lying on the banks of Yamuna River. On every Indian Independence day (15 August), Prime Minister of India hoists the national flag from the main gate of the fort."
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="18sp"
+            android:text="The history of Lal Quila is too long and dated back in the 17th century. I will focus on the brief history of red fort and try to make it short:
+
+The foundation stone of Lal Kila was laid in 1618 by Shah Jahan.
+It was constructed by Shah Jahan (fifth Mughal Emperor).
+Construction of the fort was started on 13 May, 1638 in the month of Muharram.
+Lal Quila was built in 1648; it took ten years in construction.
+Architectures of fort were Ustad Ahmad and Ustad Hamid and it was called as Qila-i-Mubarak in Mughal time.
+A massive wall was built to protect the fort from enemy attacks.
+After the end of Mughal reign in 7 October, 1858, British officials destroyed many buildings of red fort in 1863.
+"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="18sp"
+            android:text="Many small and big monuments and structure are present inside the Lal Qila of Delhi, major buildings are Chawari Bazar, Lahori Gate, Delhi Gate, Water Gate, Chhatta Chowk, Naubat Khana, Diwan-i-Aam, Nahr-i-Behisht, Mumtaz Mahal, Rang Mahal, Khas Mahal, Diwan-i-Khas, Hammam Baoli, Moti Masjid, Hira Mahal, Hayat Bakhsh Bagh, Princes’ quarter and Freedom Struggle Museum (Swatantrata Sangram Sangrahalaya)."/>
+
+    </LinearLayout>
+</ScrollView>

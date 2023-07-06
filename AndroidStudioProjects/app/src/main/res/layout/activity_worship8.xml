@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.devarshi2.android.delhiguide.MainActivity">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/laxminarayn" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LOCATIONNear Gole Market,Mandir Marg, Connaught Place"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NEAREST METRO STATION:RK ASHRAM MARG"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TIMINGS:4:30am to 1:30pm
+ 2.30pm to 9.00pm.
+(best to visit during morning
+and evening aarti)"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ENTRY:FREE"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OPEN:ALL DAYS"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PHOTOGRAPHY CHARGES:NOT ALLOWED IN TEMPLE"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="Sprawling over 7 acres, Laxminarayan Mandir, or as it is fondly called, Birla Mandir,  is one of the well known attractions of Delhi. Inaugurated by Mahatma Gandhi, it took some six years to complete its construction. The work started for this one in the year 1933 and was completed only in 1939, after which it was thrown open to visitors. Built as an initiative of B.R. Birla and Jugal Kishore Birla, well known industrialists and samaritans, the temple is dedicated to Hindu deities--Vishnu and Laxmi. King Udaybhanu Singh laid the foundation stone for the temple."
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="18sp"
+            android:text="The 3-storeyed temple was built in Nagara style with the entire temple carved with scenes from Hindu mythologies. Apart from Lord Narayan and Goddess Lakshmi, various other shrines dedicated to Lord Shiva, Lord Krishna, Hanuman and Buddha are also present."/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="18sp"
+            android:text="The temple is dedicated to Laxmi (the goddess of prosperity) and Narayana (The preserver). The temple was inaugurated by Mahatma Gandhi on the condition that people of all castes will be allowed to enter the temple"/>   </LinearLayout>
+</ScrollView>

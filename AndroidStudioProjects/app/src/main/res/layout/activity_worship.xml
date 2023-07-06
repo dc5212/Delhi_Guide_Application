@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.devarshi2.android.delhiguide.Worship"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/temple1"
+            style="@style/CategoryStyle"
+            android:background="#a4c639"
+            android:text="Lotus Temple"  />
+        <TextView
+            android:id="@+id/temple2"
+            style="@style/CategoryStyle"
+            android:background="#d11141"
+            android:text="Iskon Temple"  />
+        <TextView
+            android:id="@+id/masjid"
+            style="@style/CategoryStyle"
+            android:background="#00b159"
+            android:text="Jama Masjid"  />
+        <TextView
+            android:id="@+id/temple3"
+            style="@style/CategoryStyle"
+            android:background="#00aedb"
+            android:text="Akshardham Temple"  />
+
+
+        <TextView
+            android:id="@+id/shrine"
+            style="@style/CategoryStyle"
+            android:background="#f37735"
+            android:text="Nizamuddins Shrine"  />
+        <TextView
+            android:id="@+id/temple4"
+            style="@style/CategoryStyle"
+            android:background="#ffc425"
+            android:text="Laxminarayan Temple"  />
+    </LinearLayout>
+</ScrollView>
+
+
+

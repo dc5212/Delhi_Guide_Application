@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.devarshi2.android.delhiguide.MainActivity"
+        android:weightSum="1">
+
+        <ImageView
+
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/rashprathibhavan" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="Rashtrapati Bhavan, home to the President of the world’s largest democracy, is emblematic of Indian democracy and its secular, plural and inclusive traditions. It was designed by Sir Edwin Lutyens and Herbert Baker and stands on a 330 acre estate. It took seventeen years to build this presidential palace which was completed in the year 1929. Almost seven hundred million bricks and three million cubic feet of stone were used in building this architectural marvel that has 2.5 kilometers of corridors and 190 acres of garden area. The main building covers an area of 5 acres and has 340 rooms spread over four floors. The famous Mughal Gardens of the Rashtrapati Bhavan cover an area of 15 acres and have 159 celebrated varieties of roses, 60 varieties of bougainvillea and many other verities of flowers. The Estate also has a state-of-the-art Rashtrapati Bhavan Museum Complex (RBMC) comprising the Clock Tower, the Stables and the Garages showcasing past as well as current presidencies, the regal ceremonies, and the rich flora and fauna of Rashtrapati Bhavan, amongst other things. The RBMC was inaugurated by President Pranab Mukherjee on 25th July, 2016."
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="18sp"
+            android:text="For the convenience of the general public, Delhi Tourism has extended the facility of Ho-Ho Buses to the Rashtrapati Bhavan."/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="18sp"
+            android:text="For tourists desirous of visiting Rashtrapati Bhavan, prior online booking may be made."/>
+    </LinearLayout>
+</ScrollView>

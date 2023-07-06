@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.devarshi2.android.delhiguide.Worship"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/chowk"
+            style="@style/CategoryStyle"
+            android:background="#2175d9"
+            android:text="Chadni Chowk"  />
+        <TextView
+            android:id="@+id/mall"
+            style="@style/CategoryStyle"
+            android:background="#00308f"
+            android:text="Select CityWalk"  />
+        <TextView
+            android:id="@+id/jan"
+            style="@style/CategoryStyle"
+            android:background="#e30074"
+            android:text="Janpath"  />
+        <TextView
+            android:id="@+id/palika"
+            style="@style/CategoryStyle"
+            android:background="#b8d000"
+            android:text="Palika Bazar"  />
+        <TextView
+            android:id="@+id/connaught"
+            style="@style/CategoryStyle"
+            android:background="#ff9900"
+            android:text="Connaught Place"  />
+        <TextView
+            android:id="@+id/sarojini"
+            style="@style/CategoryStyle"
+            android:background="#e8d174"
+            android:text="Sarojini Nagar"  />
+        <TextView
+            android:id="@+id/bagh"
+            style="@style/CategoryStyle"
+            android:background="#d64d4d"
+            android:text="Karol Bagh"  />
+        <TextView
+            android:id="@+id/dlf"
+            style="@style/CategoryStyle"
+            android:background="#9ed670"
+            android:text="DLF Mall"  />
+    </LinearLayout>
+</ScrollView>

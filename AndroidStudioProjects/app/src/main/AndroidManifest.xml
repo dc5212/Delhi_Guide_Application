@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.devarshi2.android.delhiguide">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/delhii"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.devarshi2.android.delhiguide.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.devarshi2.android.delhiguide.Places"
+            android:label="Tourist Attraction" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.Shops"
+            android:label="Malls and Bazars" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.Food"
+            android:label="Restaurants" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.Worship"
+            android:label="Worship Places" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.Info"
+            android:label="Metro Information" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.infor"
+            android:label="Information" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.places1"
+            android:label="India Gate" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.places2"
+            android:label="Humayun Tomb" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.places3"
+            android:label="Red Fort" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.places4"
+            android:label="Qutub Minar" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.places5"
+            android:label="Jantar Mantar" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.places6"
+            android:label="Rashtraprati Bhavan" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.places7"
+            android:label="Indira Gandhi Muesuem" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.places8"
+            android:label="St Stephens Church" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.places9"
+            android:label="Lodhi Gardens" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.worship1"
+            android:label="Lotus Temple" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.worship2"
+            android:label="Iskon Temple" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.worship3"
+            android:label="Jama Masjid" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.worship4"
+            android:label="Akshardham Temple" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.worship7"
+            android:label="Nizamuddins Shrine" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.worship8"
+            android:label="Laxminarayn Temple" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.food1"
+            android:label="Parathe Wala Gali" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.food2"
+            android:label="Kulcha King" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.food3"
+            android:label="Dilli Haat" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.food4"
+            android:label="Sitaram Diwan Chand" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.food5"
+            android:label="Dolma Aunty Ke Momos" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.food6"
+            android:label="Kake Di Haati" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.food7"
+            android:label="Govindas" />
+        <activity
+            android:name="com.devarshi2.android.delhiguide.food8"
+            android:label="Chaat" />
+        <activity android:name="com.devarshi2.android.delhiguide.shops1"
+            android:label="Chadni Chowk"/>
+        <activity android:name="com.devarshi2.android.delhiguide.shops2"
+            android:label="Select City Walk" />
+        <activity android:name="com.devarshi2.android.delhiguide.shops3"
+            android:label="Janpath"/>
+        <activity android:name="com.devarshi2.android.delhiguide.shops4"
+            android:label="Palika Bazar"/>
+        <activity android:name="com.devarshi2.android.delhiguide.shops5"
+            android:label="Connaught Place"/>
+        <activity android:name="com.devarshi2.android.delhiguide.shops6"
+            android:label="Sarojini Nagar"/>
+        <activity android:name="com.devarshi2.android.delhiguide.shops7"
+            android:label="KarolBagh"/>
+        <activity android:name="com.devarshi2.android.delhiguide.shops8"
+            android:label="DLF Mall"></activity>
+    </application>
+
+</manifest>

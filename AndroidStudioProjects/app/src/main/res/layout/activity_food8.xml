@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.devarshi2.android.delhiguide.MainActivity">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/chat" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LOCATION:Opposite MCDonalds ChadniChowk Manohar Market"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NEAREST METRO STATION:Chawri Bazar"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TIMINGS:10:30AM TO 10PM."
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COST:RS80 FOR TWO PEOPLE"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WHAT TO EAT:Fruit Chaat"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="You cannot afford to give a miss to the authentic chaat at Lala Babu Chaat Bhandar (77, Chandni Chowk, Near McDonald”s; 11am to 10pm). Glorious Gol Gappe served with a type of Jal Jeera that”s packed with harad (a digestive), kachoris stuffed with potato and peas, Gobhi-Matar Samosas, Dahi Bhalla and Matar Paneer Tikki are the fastest-selling items here. Jugal Kishor Ramji Lal (23, Dujana House, Chawri Bazaar, Chandni Chowk; 10.30am to 10pm) is best known for the Fruit Chaat that has become a quintessential part of the sounds and sights of Chandni Chowk. Though they do offer a version of Pao Bhaji and Aloo Tikki, it”s the Fruit Chaat that is the winner here. Dahi Bhalla need not always be a part of chaat; it can be served as a principal dish as you will find at Natraj Dahi Bhalla. The delicacy called Dahi Bhalla is a deep-fried urad dal dumpling smothered in whipped curd. Often, it is streaked with chocolatebrown laces of sweet-sour tamarind chutney. Pink pomegranate seeds glisten in the folds of the curd. Natraj is located near Bhai Mati Das Chowk at the turning to Chandni Chowk metro station.rnKachori, usually stuffed with pulses and served with potato curry, is another delicacy that makes your mouth water. Jung Bahadur Kachori Wala (1104, Chhatta Madan Gopal, Chandni Chowk; 10.30am to 8pm) is perhaps the most famous for its Urad Dal Kachori, which is served with Aloo Subzi. This place is surely worth the adventure."
+            android:textSize="18sp" />
+
+    </LinearLayout>
+</ScrollView>

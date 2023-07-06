@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.devarshi2.android.delhiguide.MainActivity"
+        android:weightSum="1">
+
+        <ImageView
+
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/lodhigardens" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LOCATION:Main Lodi Road, Beside India International Centre"
+            android:textSize="18sp"
+            android:textStyle="bold"
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NEAREST METRO STATION:JLN STATION"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TIMINGS:6:00 AM - 7:30 PM"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ENTRY:FREE"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OPEN ALL DAYS"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PHOTOGRAPHY CHARGES:NIL"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="Lodhi garden was set up in between the 15th and 16th centuries by the Sayyid and Lodhi rulers. The garden is very well kept and still have some historical monuments which are an added attraction for the tourists.
+
+Lodhi garden in Delhi has been re-deigned by JA Stein and Garrett Eckbo in the year 1968 and that's how it got the present shape. At Lodhi garden you must visit the tombs of Muhammad Shah, the 3rd leader of Sayyid dynasty and Sikandar Lodhi."
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="18sp"
+            android:text="There is a Bara Gumbad and Sheesh Gumbad in the center of Lodhi Garden in Delhi which speak of the architectural glory of that era. The former comprises of a large rubber construct dome, a three domed mosque and a residence surrounding a central courtyard which contains the remains of a water tank and opposite to this Bara Gumbad lies the Sheesh Gumbad which consists of the remains of an unknown family."/>
+    </LinearLayout>
+</ScrollView>

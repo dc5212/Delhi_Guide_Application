@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.devarshi2.android.delhiguide.MainActivity">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/paratha" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LOCATION:ChadniChowk Old Delhi"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NEAREST METRO STATION:Chadni Chowk"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TIMINGS:9AM TO 11PM.Last Order at 10PM"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COST:RS150 FOR TWO PEOPLE"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WHAT TO EAT:Paneer Paratha Papad Paratha, Meva Paratha, Rabri Paratha, Daal Aloo Special Paratha."
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="If you are wondering what to eat at Paranthe Wali Gali. Stop thinking anymore, Paranthe Wali Gali is a gastronomical experience in the by-lane of Chandni Chowk."
+            android:textSize="18sp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="The Paranthas served here is strictly vegetarian. Shops at Paranthe Wali Gali serve Paranthas stuffed with fillings like Chilies, Lemons, Kajus, Badams, Matar, Khoya, Rabri, Bitter gourds, Lady fingers, Radishes, Carrots, Cauliflowers, Paneer, Aaloo, etc. You can also try the most unusual stuffing: Papad Parantha, Banana Parantha, Rabdi Parantha, Kaju Parantha and Khurchan Parantha."
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="18sp"
+            android:text="They serve Paranthas with sweet lassi (served in Kulhars), sweet tamarind chutney, mint chutney, mixed vegetable pickle, paneer and potato curry, and a sauteed mash of sweet pumpkin."/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="The Paranthas served here is strictly vegetarian. Shops at Paranthe Wali Gali serve Paranthas stuffed with fillings like Chilies, Lemons, Kajus, Badams, Matar, Khoya, Rabri, Bitter gourds, Lady fingers, Radishes, Carrots, Cauliflowers, Paneer, Aaloo, etc. You can also try the most unusual stuffing: Papad Parantha, Banana Parantha, Rabdi Parantha, Kaju Parantha and Khurchan Parantha."
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+</ScrollView>

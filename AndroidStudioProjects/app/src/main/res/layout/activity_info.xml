@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+ <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.devarshi2.android.delhiguide.Info"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="The most convenient easiet and cheapest and fastest method to travel in Delh is by Delhi Metro.The metro is spread all over the city and is very helpful for the tourists to visit many historical places such as the Red Fort,Jantar Mantar,Qutub Minar.It is also helps to reach
+many shopping places."/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingTop="20dp"
+        android:text="Smart Cards are available for tourists.They are available for unlimited travel for short duration."/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text="One-Day Card : available at a cost of Rs 200/- (Rs 150 + Rs 50 refundable security)"/>
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text="Three-Day Card: at a cost of Rs 500/- (Rs. 450 + Rs 50 refund)"/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text= "First Train Timing- Line-1
+DILSHAD GARDEN 5:30 RITHALA
+RITHALA 5:45 DILSHAD GARDEN
+"/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text= "Last Train Timing- Line-1
+DILSHAD GARDEN 23:00 RITHALA
+RITHALA 23:31 DILSHAD GARDEN
+
+"/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text= "First Train Timing- Line-2
+JHANGIRPURI 6:00 HUDA CITY
+VISWA VIDYALYA 5:00 HUDA CITY
+HUDA CITY CENTER 5:45 JAHANGIRPURI
+"/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text= "Last Train Timing- Line-2
+JHANGIRPURI 23:18 HUDA CITY
+HUDA CITY CENTER 23:30 JHANGIRPURI
+
+"/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text= "First Train Timing- Line-3/4
+DWARKA 4:42 VAISHALI
+DWARKA SEC-21 6:00 NOIDA CITY CENTRE
+VASHALI 6:00 DWARKA SEC-21
+NOIDA CITY CENTRE 6:00 DWARKA SEC-21
+
+"/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text= "Last Train Timing- Line-3/4
+DWARKA SEC-21 22:30 NOIDA CITY CENTRE
+DWARKA SEC-21 22:22 VAISHALI
+NOIDA CITY CENTRE 23:05 DWARKA SEC-21
+VAISHALI 23:05 DWARKA SEC-21
+"/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text= "First Train Timing- Line-5
+INDERLOK 6:00 MUNDAKA
+KIRTINAGAR 6:00 MUNDAKA
+MUNDAKA 5:10 KIRTINAGAR
+MUNDAKA 5:25 INDERLOK
+
+"/>
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text= "Last Train Timing- Line-5
+INDERLOK 23:30 MUNDAKA
+KIRTINAGAR 23:30 MUNDAKA
+MUNDAKA 23:00 INDERLOK
+MUNDAKA 23:06 KIRTINAGAR
+
+"/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text= "First Train Timing- Line-6
+CENTRAL SECRETERIAT 6:00 BADARPUR
+BADARPUR 6:00 CENTRAL SECRETERIAT
+"/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         android:paddingTop="20dp"
+         android:text= "Last Train Timing- Line-6
+CENTRAL SECRETERIAT 23:30 BADARPUR
+BADARPUR 23:00 CENTRAL SECRETERIAT
+"/>
+
+
+ </LinearLayout>
+</ScrollView>

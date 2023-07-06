@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.devarshi2.android.delhiguide.Places"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/gate"
+        style="@style/CategoryStyle"
+        android:background="#a4c639"
+        android:text="India Gate"  />
+    <TextView
+        android:id="@+id/tomb"
+        style="@style/CategoryStyle"
+        android:background="#d95348"
+        android:text="Humayun Tomb"  />
+    <TextView
+        android:id="@+id/fort"
+        style="@style/CategoryStyle"
+        android:background="#5bc0de"
+        android:text="Red Fort"  />
+    <TextView
+        android:id="@+id/qutub"
+        style="@style/CategoryStyle"
+        android:background="#5cb85c"
+        android:text="Qutub Minar"  />
+    <TextView
+        android:id="@+id/jantar"
+        style="@style/CategoryStyle"
+        android:background="#428bca"
+        android:text="Jantar Mantar"  />
+    <TextView
+        android:id="@+id/president"
+        style="@style/CategoryStyle"
+        android:background="#008744"
+        android:text="Rashtrapati Bhavan"  />
+    <TextView
+        android:id="@+id/nehru"
+        style="@style/CategoryStyle"
+        android:background="#0057e7"
+        android:text="Nehru Muesuem"  />
+    <TextView
+        android:id="@+id/church"
+        style="@style/CategoryStyle"
+        android:background="#d62d20"
+        android:text="St Stephens Chruch"  />
+    <TextView
+        android:id="@+id/garden"
+        style="@style/CategoryStyle"
+        android:background="#ffa700"
+        android:text="Lodi Gardens"  />
+
+
+
+</LinearLayout>
+    </ScrollView>

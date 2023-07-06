@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.devarshi2.android.delhiguide.MainActivity">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/iskontemple" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TIMINGS:4:30 AM TO 9:00 PM.MAIN TEMPE HALL IS CLOSED BETWEEN 1PM AND 4PM"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OPEN:ALL DAYS"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PHOTOGRAPHY CHARGES:NOT ALLOWED"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="Iskcon, East of Kailash has developed Vedic Expo , Asias only technology center promoting Vedic Sciences and culturewherein a very high technology usage of Audio ,visual presentation of Bhagvat Gita is depicted with lights and sound used for creating historical effect and a very interesting tourist attraction as we are the only one in Delhi showcasing this."
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="18sp"
+            android:text="We have another show on Mahabharata and also a complete robotics show . The whole ambience of the temple is very attractive with ongoing devotional chants, fountains and gift shops. We have a Govinda’s restaurant serving high quality vegetarian food and has become land mark for foodies in Delhi."   />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="18sp"
+            android:text="Iskcon in Delhi has eight temples across Delhi and our main temple at East of Kailash which is known as “Glory of India-Cultural Center” is spread in 3 acre area .Today we have around 10 lakh people who visit our Temple in a year. Iskcon is present in 77 countries with over 600 temples, 65 farm communities, 30 education centres and more than 100 restaurants"/>
+    </LinearLayout>
+</ScrollView>

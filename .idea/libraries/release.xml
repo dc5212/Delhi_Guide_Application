@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_9fba0228da0d5f0c5efdf977f9858fc43c5af409.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_8f09839c790da27815b5d59d264efcf18be26fdf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_245f5e99cbab0ed190acf10aa1512e1b7145ebe4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_23c1223063e8802b4fb5ec6e5425d274f79618f4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_5f15b5466cd58fbb7a7ed49461a60c9af667207b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_f03dd919e0026bed97e464977a18fb240df1ff4b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_ffc1663dab7daab9c53f64533bb0e25093f4d3fb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/release_828125dbd3615264173cdd64139d9c10566f451a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_a02c4c48b259732661bde2ef0cd2e012ee36a159.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_6c28f14fc5b243a18bbdd70949dcfe6a5c75a971.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_2de907bd72f5857af7169140c6902533e1aecf4d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_d1dc9534b25664dec27dea13c2e03161a0e096b1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_c08178a2dea619275c81a96b400de1ce716d3f7a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_5c668c32a87fa1ff41bdb8ae748facb358d2f546.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_8aa8430a65751a27f305cc31ca24df1ba80a0a7b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_3906860a4bd9236f9f44b4ed1f8225b3a94c4db5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_ca2fbe23134260e08547f9ba50e84b22e77b2580.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidStudioProjects/app/build/intermediates/pre-dexed/release/classes_f68a38279eecdbccfb65c8f88e13eeca227936a1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

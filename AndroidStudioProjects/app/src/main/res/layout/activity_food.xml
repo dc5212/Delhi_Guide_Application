@@ -1,0 +1,59 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.devarshi2.android.delhiguide.Food"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/paratha"
+            style="@style/CategoryStyle"
+            android:background="#a8e6cf"
+            android:text="Parathe Wala Gali"  />
+        <TextView
+            android:id="@+id/kulcha"
+            style="@style/CategoryStyle"
+            android:background="#dcedc1"
+            android:text="Kulcha King"  />
+        <TextView
+            android:id="@+id/haat"
+            style="@style/CategoryStyle"
+            android:background="#ffd3b6"
+            android:text="Dilli Haat"  />
+        <TextView
+            android:id="@+id/sitaram"
+            style="@style/CategoryStyle"
+            android:background="#ffaaa5"
+            android:text="Sitaram Diwan Chand"  />
+        <TextView
+            android:id="@+id/momos"
+            style="@style/CategoryStyle"
+            android:background="#ff8b94"
+            android:text="Dolma Aunty ke momos"  />
+        <TextView
+            android:id="@+id/hatti"
+            style="@style/CategoryStyle"
+            android:background="#363b74"
+            android:text="Kake Di Hatti"  />
+        <TextView
+            android:id="@+id/govinda"
+            style="@style/CategoryStyle"
+            android:background="#673888"
+            android:text=" Govinda’s"  />
+        <TextView
+            android:id="@+id/chaat"
+            style="@style/CategoryStyle"
+            android:background="#ef4f91"
+            android:text="Chaat"  />
+
+
+
+
+    </LinearLayout>
+</ScrollView>
